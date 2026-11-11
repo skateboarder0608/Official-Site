@@ -1,0 +1,23 @@
+header {
+  background-color: lightgreen;
+  border: 10px solid blue;
+}
+section {
+  border: 10px solid red;
+  background-color: lightgreen;
+}
+body {
+  font-family: sans-serif;
+  border: 5px solid yellow;
+  background-color: green;
+}
+h3 {
+color: black;
+}
+h2 {
+  color: black;
+}
+footer {
+  border: 10px solid grey;
+  background-color: lightgreen;
+}
